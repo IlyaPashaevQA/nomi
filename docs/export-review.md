@@ -13,9 +13,9 @@ Real learner databases, events, checkpoints, family profiles, authentication con
 
 The new test reports contain synthetic accounts only. `.demo-data`, dependencies, browser traces and generated reports are excluded from Git by default. A source manifest is supplied instead of the source repository's mixed historical Git state.
 
-## Media review before public release
+## Media provenance and publication decision
 
-The geometric SVG illustrations and neutral leaf were authored for this portable edition. No private child photograph or physical voice recording was intentionally selected. The pronunciation clips come from existing generated teaching assets, but file provenance and previous content review do not independently establish redistribution terms. Keep the repository private until the owner confirms those terms or chooses replacement recordings.
+The geometric SVG illustrations and neutral leaf were authored for this portable edition. No private child photograph or physical voice recording was intentionally selected. The pronunciation clips come from existing generated teaching assets, but file provenance and previous content review do not independently establish redistribution terms. On 3 November 2026 the owner explicitly approved public release with the existing eight MP3 files, accepted that uncertainty and committed to remove the audio upon request. MP3 files remain outside MIT; the publication decision is not a provider permission.
 
 On 3 November 2026 the owner approved the MIT License for source code, tests and documentation. See `LICENSE`. Audio and other media are excluded from that grant unless explicitly licensed in `ASSETS.md`. Dependencies retain their respective upstream licenses.
 

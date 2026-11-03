@@ -9,6 +9,8 @@ export default defineConfig({
   expect: {timeout: 7_000},
   reporter: [['list'], ['html', {open: 'never'}], ['json', {outputFile: 'reports/e2e-results.json'}]],
   use: {
+    // Installed Chrome has the OS sandbox profile on GitHub-hosted Ubuntu.
+    channel: process.env.CI ? 'chrome' : undefined,
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
     launchOptions: {chromiumSandbox: true},

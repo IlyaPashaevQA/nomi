@@ -1,5 +1,7 @@
 # Nomi Hebrew Practice
 
+[![Nomi QA](https://github.com/IlyaPashaevQA/nomi/actions/workflows/qa.yml/badge.svg)](https://github.com/IlyaPashaevQA/nomi/actions/workflows/qa.yml)
+
 A portable edition of the Hebrew learning core from Nomi 0.5, a personal language-learning product built and iterated by Ilia Pashaev with AI coding assistants.
 
 The application introduces vocabulary before practice, saves lesson checkpoints and supports continuing after a reload. This repository pairs the actual shared lesson runtime with a small local server, synthetic learner profiles and a focused QA portfolio.
@@ -47,7 +49,7 @@ npx playwright show-report
 
 On Windows, `py demo_server.py` can replace `python3 demo_server.py`. For browser tests, set the `PYTHON` environment variable to your Python executable if it is not named `python3`.
 
-The TypeScript suite uses Page Objects to centralize UI operations. Every test starts a real local HTTP server on an automatically assigned port with its own temporary SQLite database. Browser contexts are isolated by Playwright. The suite covers desktop and phone-sized Chromium; a phone viewport is not a physical iPhone or Safari test.
+The TypeScript suite uses Page Objects to centralize UI operations. Every test starts a real local HTTP server on an automatically assigned port with its own temporary SQLite database. Browser contexts are isolated by Playwright. The suite covers desktop and phone-sized Chromium locally and the installed Google Chrome on GitHub Actions (Ubuntu 24.04). The browser sandbox stays enabled. A phone viewport is not a physical iPhone or Safari test.
 
 ## What is tested
 
@@ -74,9 +76,9 @@ I define the learning requirements and expected behavior, exercise the product, 
 - The eight-word sample demonstrates the learning core, not the full private curriculum.
 - Automated browser checks do not prove teaching effectiveness, human pronunciation quality or physical-device compatibility.
 - The local SQLite adapter deliberately has a smaller scope than the deployed backend.
-- The distribution terms of the eight retained pronunciation clips require review or replacement before public release. These MP3 files are excluded from the MIT code license.
+- The eight synthetic pronunciation clips have separate provenance and licensing notes in ASSETS.md; these MP3 files are excluded from the MIT code license.
 
-See [privacy and media notes](docs/export-review.md) before changing repository visibility.
+See [privacy and media notes](docs/export-review.md) and [asset provenance](ASSETS.md).
 
 ## License
 

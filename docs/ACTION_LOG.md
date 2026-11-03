@@ -16,3 +16,8 @@
 - Final browser refresh was blocked by an automatic-review service capacity failure; read-only connector checks confirmed the files and private visibility. No hosted CI success has been observed.
 
 - Owner approved MIT licensing on 3 November 2026. Added the standard MIT license for source code, tests and documentation, with media scope documented separately. Seven existing clips trace to edge-tts / he-IL-HilaNeural; the flower clip traces to gTTS / Hebrew iw. Their redistribution terms remain unconfirmed; no MIT rights are granted for these MP3 files. Repository visibility remains private.
+
+- Owner authorized public portfolio release on 3 November 2026 with the existing eight MP3 clips, accepting unresolved distribution terms and removal on request. Updated media notes without extending MIT to MP3 files.
+- Reproduced hosted CI failure from run41616764391: all 14 browser checks failed at launch, before application pages; 3 planner, 12 Python and TypeScript checks had passed. GitHub ubuntu-latest resolved to Ubuntu26.04 with AppArmor user-namespace restrictions.
+- Select the runner's installed Google Chrome in CI and pin Ubuntu24.04. Keep chromiumSandbox:true, all checks and assertions. Do not alter host security policy. Local Chromium remains default.
+- Checked crapper, dryer and mutator independently: unavailable; their steps skipped, nothing installed. Configuration change uses the actual failed CI run as the red check; no implementation-mirroring test added.

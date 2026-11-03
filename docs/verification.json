@@ -21,11 +21,11 @@
   "typescript": "typecheck passed",
   "visual": "390x844 home, vocabulary and active lesson inspected",
   "source_manifest_mismatches": [],
-  "github_actions": "configured; no successful hosted CI result observed",
-  "publication": "Uploaded to private GitHub repository IlyaPashaevQA/nomi; main files retrieved and verified",
+  "github_actions": "Original runs failed before opening any page: Chromium sandbox unavailable on Ubuntu 26.04. Fix selects installed Google Chrome with sandbox enabled on pinned Ubuntu 24.04; hosted rerun pending.",
+  "publication": "Owner authorized public release with the eight existing MP3 files; visibility change pending CI verification",
   "boundaries": [
     "synthetic profiles only",
-    "eight pronunciation clips require redistribution review before public release",
+    "owner approved retaining eight MP3 clips with unresolved distribution terms; audio excluded from MIT",
     "MIT approved for source code, tests and documentation; retained MP3 files excluded",
     "no production service changes"
   ]
