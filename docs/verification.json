@@ -21,8 +21,8 @@
   "typescript": "typecheck passed",
   "visual": "390x844 home, vocabulary and active lesson inspected",
   "source_manifest_mismatches": [],
-  "github_actions": "configured, not run",
-  "publication": "not uploaded; browser sign-in required",
+  "github_actions": "configured; no successful hosted CI result observed",
+  "publication": "Uploaded to private GitHub repository IlyaPashaevQA/nomi; main files retrieved and verified",
   "boundaries": [
     "synthetic profiles only",
     "eight pronunciation clips require redistribution review before public release",

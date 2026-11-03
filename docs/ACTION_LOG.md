@@ -12,3 +12,5 @@
 - Inspected the home, vocabulary and active lesson at 390x844. Source hash manifest checked; no source files or production services changed.
 - Fixed error-response cleanup in HTTP test helper; reran all 12 Python checks successfully.
 - GitHub browser requires owner sign-in. No repository was created or made public. GitHub Actions is configured but has not run.
+- After owner browser sign-in, created private IlyaPashaevQA/nomi. Uploaded 124 files through the GitHub connector; remote tree e1bf172235825983154c158c88e6457890893097 matched the local tested tree exactly. Retrieved the TypeScript spec and LessonPage from main. No public access was enabled.
+- Final browser refresh was blocked by an automatic-review service capacity failure; read-only connector checks confirmed the files and private visibility. No hosted CI success has been observed.
