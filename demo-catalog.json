@@ -1,0 +1,142 @@
+{
+  "schema": "languages-content-access-v1",
+  "catalog": [
+    {
+      "id": "demo-basic-words",
+      "language": "he",
+      "title": "Everyday words",
+      "words": [
+        {
+          "id": "demo:1",
+          "language": "he",
+          "target": "בית",
+          "displayTarget": "בַּיִת",
+          "meaning": "house",
+          "image": "./assets/demo/house.svg",
+          "audioSrc": "./audio/uploaded/c9cff6fa34f41c89.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "house",
+            "language": "en"
+          },
+          "contentSha256": "795f92f61024563f91df90fe81377f34a939771ac0a2fade7a8676990fe3bac7"
+        },
+        {
+          "id": "demo:2",
+          "language": "he",
+          "target": "ספר",
+          "displayTarget": "סֵפֶר",
+          "meaning": "book",
+          "image": "./assets/demo/book.svg",
+          "audioSrc": "./audio/uploaded/ac803847345c8f65.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "book",
+            "language": "en"
+          },
+          "contentSha256": "b57390f544b8e4b11387d8226d3fd69c0d277f9bd684458b85efd7ed240df590"
+        },
+        {
+          "id": "demo:3",
+          "language": "he",
+          "target": "עץ",
+          "displayTarget": "עֵץ",
+          "meaning": "tree",
+          "image": "./assets/demo/tree.svg",
+          "audioSrc": "./audio/uploaded/e860028a89041e3c.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "tree",
+            "language": "en"
+          },
+          "contentSha256": "77008c809cc28d20cbb40b86f010b9d4bab3fc058a89f6b263c21001ea8bcf1a"
+        },
+        {
+          "id": "demo:4",
+          "language": "he",
+          "target": "דג",
+          "displayTarget": "דָּג",
+          "meaning": "fish",
+          "image": "./assets/demo/fish.svg",
+          "audioSrc": "./audio/uploaded/b17ba0e9997ce8a5.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "fish",
+            "language": "en"
+          },
+          "contentSha256": "fcd729b6c81ad0ce26d7b7e1950e5085f4981b8e416de07da692f83055e6f71f"
+        },
+        {
+          "id": "demo:5",
+          "language": "he",
+          "target": "פרח",
+          "displayTarget": "פֶּרַח",
+          "meaning": "flower",
+          "image": "./assets/demo/flower.svg",
+          "audioSrc": "./audio/uploaded/02cf70d45f52c176.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "flower",
+            "language": "en"
+          },
+          "contentSha256": "0eddc3fe588ebbbe6dfa6f8b318c795d963bed53de8b19bfdabf0adbf1f1dff7"
+        },
+        {
+          "id": "demo:6",
+          "language": "he",
+          "target": "מים",
+          "displayTarget": "מַיִם",
+          "meaning": "water",
+          "image": "./assets/demo/water.svg",
+          "audioSrc": "./audio/uploaded/efa06b2ebc09c5a6.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "water",
+            "language": "en"
+          },
+          "contentSha256": "38123aa68f4db88ac31d167bcf5e6b494417e5ebac0f3cf61d8feb099bb2c041"
+        },
+        {
+          "id": "demo:7",
+          "language": "he",
+          "target": "כלב",
+          "displayTarget": "כֶּלֶב",
+          "meaning": "dog",
+          "image": "./assets/demo/dog.svg",
+          "audioSrc": "./audio/uploaded/e044c2fa208b4e57.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "dog",
+            "language": "en"
+          },
+          "contentSha256": "ea161d092f2bfb6265eb20546e9f082b86ab42edabe516b4b3ed14b02a834a0d"
+        },
+        {
+          "id": "demo:8",
+          "language": "he",
+          "target": "חתול",
+          "displayTarget": "חָתוּל",
+          "meaning": "cat",
+          "image": "./assets/demo/cat.svg",
+          "audioSrc": "./audio/uploaded/8191b1cf31f0b238.mp3",
+          "allowBuild": true,
+          "source": "portfolio-demo",
+          "translation": {
+            "text": "cat",
+            "language": "en"
+          },
+          "contentSha256": "18fe64e18a310117b6db6a9a6fdf0a4eeebbe6a494a79d471eb1f93905196bdf"
+        }
+      ]
+    }
+  ],
+  "readingUnits": [],
+  "dailyObservations": []
+}

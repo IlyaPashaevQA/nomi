@@ -1,0 +1,549 @@
+{
+  "snapshot_at_utc": "2026-11-03T09:39:00.080857+00:00",
+  "baseline": "Nomi0.5 shared Hebrew lesson runtime, snapshot03Nov2026",
+  "scope": "portable core edition, excludes Personal Hub shell and private histories",
+  "files": [
+    {
+      "path": "web/languages-v05/acceptance-run-profile.mjs",
+      "source_sha256": "a4e343d1defeb6ca1fa65f6ec103cd6f1ff0ee8d25a08567906ce929f3bee88d",
+      "export_sha256": "a4e343d1defeb6ca1fa65f6ec103cd6f1ff0ee8d25a08567906ce929f3bee88d",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/alpha20-candidate-overrides.mjs",
+      "source_sha256": "700ad579f3980e214203c3724afa1acba0d7f5a1005c0b8f9c8206da1d7d1210",
+      "export_sha256": "700ad579f3980e214203c3724afa1acba0d7f5a1005c0b8f9c8206da1d7d1210",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/alpha20-course.mjs",
+      "source_sha256": "945c9ec34177d1b8d2e89243ac34d5762e9cd401cbbdb30ac4f7f761f5ed23be",
+      "export_sha256": "945c9ec34177d1b8d2e89243ac34d5762e9cd401cbbdb30ac4f7f761f5ed23be",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/alpha20-lesson-ui.mjs",
+      "source_sha256": "9dc2149835faa1494299d9dd40d52db42e2b26010b800f63c38e1fbbab501ebd",
+      "export_sha256": "9dc2149835faa1494299d9dd40d52db42e2b26010b800f63c38e1fbbab501ebd",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/alpha20-media.mjs",
+      "source_sha256": "beb182ee9857ec18d81469741f89b7c6072b0e0efbb51791db5b218095d9315d",
+      "export_sha256": "beb182ee9857ec18d81469741f89b7c6072b0e0efbb51791db5b218095d9315d",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/alpha20-runtime-images.mjs",
+      "source_sha256": "d371880f5ca5333142153d17c43a9c2ec75612815bcf4f88af6876eae69272a1",
+      "export_sha256": "d371880f5ca5333142153d17c43a9c2ec75612815bcf4f88af6876eae69272a1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/alpha20-store.mjs",
+      "source_sha256": "88cc938733531e8b2128dd8972b5f2ec628676a7141914db358c565de411e445",
+      "export_sha256": "88cc938733531e8b2128dd8972b5f2ec628676a7141914db358c565de411e445",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/asset-pilot-alpha10-manifest.mjs",
+      "source_sha256": "637c537dd2e16b4fe91188b7b7085b7016b40e05d780f4ad4f7af73ce7a47e88",
+      "export_sha256": "637c537dd2e16b4fe91188b7b7085b7016b40e05d780f4ad4f7af73ce7a47e88",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/asset-pilot-alpha20-batch2-manifest.mjs",
+      "source_sha256": "f207591bab0e0489f998e8b8c8303d9fba9d2ac4c284c41179cc0a81c1cde002",
+      "export_sha256": "f207591bab0e0489f998e8b8c8303d9fba9d2ac4c284c41179cc0a81c1cde002",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/asset-pilot-autumn1-manifest.mjs",
+      "source_sha256": "09701528401a337e0109ac39a555ec029a1cd4e6183dba9db59eb559da8e365d",
+      "export_sha256": "09701528401a337e0109ac39a555ec029a1cd4e6183dba9db59eb559da8e365d",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/asset-release-manifest.mjs",
+      "source_sha256": "6770d05f7c8fea2177379befc0a2abfeef34aeae4edc5e585ab46969ca2a700a",
+      "export_sha256": "6770d05f7c8fea2177379befc0a2abfeef34aeae4edc5e585ab46969ca2a700a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/audio-telemetry.mjs",
+      "source_sha256": "baba9d3edad43be0d650fb39018e7dfd4ac1306cd16784daa7754701459a908f",
+      "export_sha256": "baba9d3edad43be0d650fb39018e7dfd4ac1306cd16784daa7754701459a908f",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/02cf70d45f52c176.mp3",
+      "source_sha256": "02cf70d45f52c176fcf6a89de790e5c5a942e026a15224e27f81ea4cd6cd1d7c",
+      "export_sha256": "02cf70d45f52c176fcf6a89de790e5c5a942e026a15224e27f81ea4cd6cd1d7c",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/8191b1cf31f0b238.mp3",
+      "source_sha256": "8191b1cf31f0b238f66792db8c6e16f5e0c29094ceb90f250413aa97b70a5f35",
+      "export_sha256": "8191b1cf31f0b238f66792db8c6e16f5e0c29094ceb90f250413aa97b70a5f35",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/ac803847345c8f65.mp3",
+      "source_sha256": "ac803847345c8f6558d845a76c2bf6dc6ac0f482f44fb97398d428463d59b29d",
+      "export_sha256": "ac803847345c8f6558d845a76c2bf6dc6ac0f482f44fb97398d428463d59b29d",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/b17ba0e9997ce8a5.mp3",
+      "source_sha256": "b17ba0e9997ce8a5f11ccac2bacaf98c8d230e5ef230edce5884e3767f1fd211",
+      "export_sha256": "b17ba0e9997ce8a5f11ccac2bacaf98c8d230e5ef230edce5884e3767f1fd211",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/c9cff6fa34f41c89.mp3",
+      "source_sha256": "c9cff6fa34f41c893c5119c1421a2ad58b10750c7f2a92b74dec75a673fd290c",
+      "export_sha256": "c9cff6fa34f41c893c5119c1421a2ad58b10750c7f2a92b74dec75a673fd290c",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/e044c2fa208b4e57.mp3",
+      "source_sha256": "e044c2fa208b4e575564e289d657725c4b81236dc3ab7cdcb3eb8377c5bbbf22",
+      "export_sha256": "e044c2fa208b4e575564e289d657725c4b81236dc3ab7cdcb3eb8377c5bbbf22",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/e860028a89041e3c.mp3",
+      "source_sha256": "e860028a89041e3ca52e2591f4ae63e282b48d93959664a7bf9f62dd3c9c2547",
+      "export_sha256": "e860028a89041e3ca52e2591f4ae63e282b48d93959664a7bf9f62dd3c9c2547",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/audio/uploaded/efa06b2ebc09c5a6.mp3",
+      "source_sha256": "efa06b2ebc09c5a6e139d39157a5bef101fb36ff059a8fd4f750990a450734de",
+      "export_sha256": "efa06b2ebc09c5a6e139d39157a5bef101fb36ff059a8fd4f750990a450734de",
+      "transformation": "unchanged",
+      "provenance": "existing single-word synthetic teaching asset; distribution review pending"
+    },
+    {
+      "path": "web/languages-v05/autumn1-store.mjs",
+      "source_sha256": "8d63357212f7dfbf12c819bee26149729bf3f56d48e1ed37c44a1fcce19950de",
+      "export_sha256": "8d63357212f7dfbf12c819bee26149729bf3f56d48e1ed37c44a1fcce19950de",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/bubble-constructor-ui.mjs",
+      "source_sha256": "c01ee65e7ddf4afc4fd4070fd87d47b9d3d8200f7d26c3bc054271358091519a",
+      "export_sha256": "c01ee65e7ddf4afc4fd4070fd87d47b9d3d8200f7d26c3bc054271358091519a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/bubble-match-ui.mjs",
+      "source_sha256": "6ee47ad996abd457eb72d3e9e536d3ba874428d1667fd4344bfe1810e6dec10a",
+      "export_sha256": "6ee47ad996abd457eb72d3e9e536d3ba874428d1667fd4344bfe1810e6dec10a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/candidate-pilots.mjs",
+      "source_sha256": "feb8f40b773d842a7b64013667ae4fecca92fd0466582c1bc92dfc835e07e306",
+      "export_sha256": "feb8f40b773d842a7b64013667ae4fecca92fd0466582c1bc92dfc835e07e306",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/candidate-review.mjs",
+      "source_sha256": "b89214995678e650db1c12ece50498d147a095aab6a71da74f88f46d8de20f51",
+      "export_sha256": "b89214995678e650db1c12ece50498d147a095aab6a71da74f88f46d8de20f51",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/composition-evidence.mjs",
+      "source_sha256": "91dd12ba5d2414d747eb9f29a0307d8acc42a8d657171ec9ccc0c0448c241786",
+      "export_sha256": "91dd12ba5d2414d747eb9f29a0307d8acc42a8d657171ec9ccc0c0448c241786",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/content-access-client.mjs",
+      "source_sha256": "eb85d34ec90931c7db28f00a25dd40d1fe112e5977415daedd6cdbfe2f5eddb1",
+      "export_sha256": "eb85d34ec90931c7db28f00a25dd40d1fe112e5977415daedd6cdbfe2f5eddb1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/content.mjs",
+      "source_sha256": "23de17866fd959d605e3ca863886d684ab481aeb6343994aeb05842a87467479",
+      "export_sha256": "23de17866fd959d605e3ca863886d684ab481aeb6343994aeb05842a87467479",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/dasha-hebrew-autumn-course-v1.mjs",
+      "source_sha256": "c2b4c9592c4c88eef6013986c9c0031129d8f280e4e45bdd70c7306adc9f8db8",
+      "export_sha256": "c2b4c9592c4c88eef6013986c9c0031129d8f280e4e45bdd70c7306adc9f8db8",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/domain.mjs",
+      "source_sha256": "90e8745ef002c42f1e1a380fa7256d4f9bf4c714e982788ef064b54b22d516dd",
+      "export_sha256": "90e8745ef002c42f1e1a380fa7256d4f9bf4c714e982788ef064b54b22d516dd",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/english-learning-session.mjs",
+      "source_sha256": "e305887c19605fd7b5fdacf8b53e8b477fc27c83cd283609acc67299d68d2904",
+      "export_sha256": "e305887c19605fd7b5fdacf8b53e8b477fc27c83cd283609acc67299d68d2904",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/english-teaching-model.mjs",
+      "source_sha256": "70fa9ead642dfad5c642024f17fa41a16a6441aec8b27e0fbb32e90d81d212c2",
+      "export_sha256": "70fa9ead642dfad5c642024f17fa41a16a6441aec8b27e0fbb32e90d81d212c2",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/events.mjs",
+      "source_sha256": "8ff0958fd65e6b58f83336cf33b9d4831e4a23aa313d941fbd47de767d01fa49",
+      "export_sha256": "8ff0958fd65e6b58f83336cf33b9d4831e4a23aa313d941fbd47de767d01fa49",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/evidence.mjs",
+      "source_sha256": "b5aaa2fbd3e13257bd99da56832933fb37b3f55977ef5a9441aa8efb91d643cf",
+      "export_sha256": "b5aaa2fbd3e13257bd99da56832933fb37b3f55977ef5a9441aa8efb91d643cf",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/focus-choice-ui.mjs",
+      "source_sha256": "00ef38fa401ef6bc6396015a8b54e5d686b4874fef98fa476fb6d200e0a0a894",
+      "export_sha256": "00ef38fa401ef6bc6396015a8b54e5d686b4874fef98fa476fb6d200e0a0a894",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/handwriting-ui.mjs",
+      "source_sha256": "9152a275c12d2cb0a6f34b3ac0526f53fdb166fb798956c03d8ffb33844f8edb",
+      "export_sha256": "9152a275c12d2cb0a6f34b3ac0526f53fdb166fb798956c03d8ffb33844f8edb",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/hebrew-daily-priority.mjs",
+      "source_sha256": "10e028afdaf4e25fdd3b7841f1b0c64c13c1d4f4ca283122c88ad92a61bbfc71",
+      "export_sha256": "10e028afdaf4e25fdd3b7841f1b0c64c13c1d4f4ca283122c88ad92a61bbfc71",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/hebrew-english-glossary.mjs",
+      "source_sha256": "eb74e750681de20102197ce9b4bd37c4740cfbba074ba89533a0a674db75b6f4",
+      "export_sha256": "eb74e750681de20102197ce9b4bd37c4740cfbba074ba89533a0a674db75b6f4",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/hebrew-known-word-policy.mjs",
+      "source_sha256": "9d1095adcd880f4264ae5690ee270749f2e15cb48e4765e54ef73b91037f9da9",
+      "export_sha256": "9d1095adcd880f4264ae5690ee270749f2e15cb48e4765e54ef73b91037f9da9",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/hebrew-number-forms.mjs",
+      "source_sha256": "38d42e8097facc74c2323a2ca35f6bf41f629dd80c2ae5413c1cea4b6e8822b8",
+      "export_sha256": "38d42e8097facc74c2323a2ca35f6bf41f629dd80c2ae5413c1cea4b6e8822b8",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/hebrew-pack-catalog.mjs",
+      "source_sha256": "e5c2b36010a5a06c232fd565c954ce61b2222f91ceacfa5c5398bf1558f833f3",
+      "export_sha256": "e5c2b36010a5a06c232fd565c954ce61b2222f91ceacfa5c5398bf1558f833f3",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/hebrew-presentation.mjs",
+      "source_sha256": "c773ad1d7ba32c55a093d139c51d8bd668bd398ff72a19f5cf08c0c368c0b07c",
+      "export_sha256": "c773ad1d7ba32c55a093d139c51d8bd668bd398ff72a19f5cf08c0c368c0b07c",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/instruction-audio.mjs",
+      "source_sha256": "1893457cde547f8d9f44377d98c1fcd7d3c5d6c3881e542369f24c10651871fd",
+      "export_sha256": "1893457cde547f8d9f44377d98c1fcd7d3c5d6c3881e542369f24c10651871fd",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/intro-english-audio.mjs",
+      "source_sha256": "7755cabb88dc3ca7ec0099a80f64ee293950caa45354403f9b7a18eeea122ca1",
+      "export_sha256": "7755cabb88dc3ca7ec0099a80f64ee293950caa45354403f9b7a18eeea122ca1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/karmel-page15-activities.mjs",
+      "source_sha256": "200b03dab5ff6f2fb36f91e9a27850389d56f12d11e6c227f4eb82ac08727ba6",
+      "export_sha256": "50172d2beff290a76737829fbf83f7bdc2cb6874ed6985b2c84f95b6d2dcb26f",
+      "transformation": "School-reading catalogue payload omitted from portable edition"
+    },
+    {
+      "path": "web/languages-v05/language-daily-queue.mjs",
+      "source_sha256": "fc11f8687a44f2c0d2a79e85e9e26a39156716834aff88d00c7690da08d7279b",
+      "export_sha256": "fc11f8687a44f2c0d2a79e85e9e26a39156716834aff88d00c7690da08d7279b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/learner-audio.mjs",
+      "source_sha256": "f0194a390cbbae3b260a99788547cedb0463a8f9ea8162d7fa8fcbffc01c1bca",
+      "export_sha256": "f0194a390cbbae3b260a99788547cedb0463a8f9ea8162d7fa8fcbffc01c1bca",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/learning-bubble-contract.mjs",
+      "source_sha256": "c5a433175fe982aff358b1f8a8169fa28d19b51a387c40a4724990b06dd2bae5",
+      "export_sha256": "c5a433175fe982aff358b1f8a8169fa28d19b51a387c40a4724990b06dd2bae5",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/learning-engine-ui.css",
+      "source_sha256": "397bdee4ac047f04518272ed08c89b81eed2261d25ddfe1ddd6e2b59bd855e5e",
+      "export_sha256": "579add81ae664a05bce34083dff3bf1d97464ad65df39072f7b518e5a4c0e59c",
+      "transformation": "Replace asset/font URL references with none; portable edition uses system fonts and no private theme assets."
+    },
+    {
+      "path": "web/languages-v05/lesson-image-cache.mjs",
+      "source_sha256": "48ce0dd6ead4c4401c6a529ed21c0021c346c7a16a6232322af47c4a4e17c9be",
+      "export_sha256": "48ce0dd6ead4c4401c6a529ed21c0021c346c7a16a6232322af47c4a4e17c9be",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/lesson-text.mjs",
+      "source_sha256": "042e6e82d25db7dc517ce6ba0f0b7ba6881a0fc3f98d03f6a5d875fa0384c3d2",
+      "export_sha256": "042e6e82d25db7dc517ce6ba0f0b7ba6881a0fc3f98d03f6a5d875fa0384c3d2",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/luni-art.mjs",
+      "source_sha256": "2bfb34295a38482a36322580459cd13e40bc154dd03abd59c4263259b6794422",
+      "export_sha256": "1616a5faa77d0455270ee81ec4bf6df1997ef4fe2a53ffa420c230ce78107670",
+      "transformation": "Original neutral leaf artwork replaces private character design"
+    },
+    {
+      "path": "web/languages-v05/luni-companion.mjs",
+      "source_sha256": "a8a8a0533c4b1dec4d2da4f8dd4f759308d8cc50e65e55e3c64f908ce9b2bcd0",
+      "export_sha256": "a8a8a0533c4b1dec4d2da4f8dd4f759308d8cc50e65e55e3c64f908ce9b2bcd0",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/luni-exercise-ui.mjs",
+      "source_sha256": "9799d128b3a54d2b6470c36c1590b8e65718b86df57a1f3329a447bbb495851c",
+      "export_sha256": "9799d128b3a54d2b6470c36c1590b8e65718b86df57a1f3329a447bbb495851c",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/mechanic-layout-profile.mjs",
+      "source_sha256": "39f1c121c892befaa965da5e95c5ad3bdb94b88a06a7e6839af0551da56a231f",
+      "export_sha256": "39f1c121c892befaa965da5e95c5ad3bdb94b88a06a7e6839af0551da56a231f",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/memory.mjs",
+      "source_sha256": "66169aa02d179d9667852d6efe11b1d7a57cac7a1721cbf38409050e09da26f8",
+      "export_sha256": "66169aa02d179d9667852d6efe11b1d7a57cac7a1721cbf38409050e09da26f8",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/nikud-fading.mjs",
+      "source_sha256": "c35a4cfa3e65b1672be10cbc93d333c2ec19f6c11646ef36625bc28314652947",
+      "export_sha256": "c35a4cfa3e65b1672be10cbc93d333c2ec19f6c11646ef36625bc28314652947",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/nomi-lesson-shell.mjs",
+      "source_sha256": "31854fdbf16379ff446af3f1441d86f59a4f583d20bd18963a495623f6839bf1",
+      "export_sha256": "31854fdbf16379ff446af3f1441d86f59a4f583d20bd18963a495623f6839bf1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/nomi-roaming.mjs",
+      "source_sha256": "31dd0675b3db92e023a0f5347af336f14bac6010c4d22c847bd2ae8b5d78bb3e",
+      "export_sha256": "31dd0675b3db92e023a0f5347af336f14bac6010c4d22c847bd2ae8b5d78bb3e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/number-daily-ui.mjs",
+      "source_sha256": "53dd0f767222dbd575bd2a6f8bac574445e8851bf9f61d7c8169c79450f91690",
+      "export_sha256": "53dd0f767222dbd575bd2a6f8bac574445e8851bf9f61d7c8169c79450f91690",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/orbit-choice-ui.mjs",
+      "source_sha256": "7e32de1dcf2e6ab10bad530b48649599c0a0e473d2b3ce7b52e6324346c95008",
+      "export_sha256": "7e32de1dcf2e6ab10bad530b48649599c0a0e473d2b3ce7b52e6324346c95008",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/owner-hebrew-daily-plan.mjs",
+      "source_sha256": "545042c83cbf2b31fa1ce8977faf628f203504cb3de17c498b0178aff9696141",
+      "export_sha256": "545042c83cbf2b31fa1ce8977faf628f203504cb3de17c498b0178aff9696141",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/reading-multi-choice-ui.mjs",
+      "source_sha256": "850ed14fc471f30f5c4ef67eed7d609eebfe6c8102fb4256283cf057c4ff8b0d",
+      "export_sha256": "850ed14fc471f30f5c4ef67eed7d609eebfe6c8102fb4256283cf057c4ff8b0d",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/reading-unit-catalog.mjs",
+      "source_sha256": "5fc61bd7533ba6fc8aa16a6639f7a4a95a5cd445dcf0ebc06cf59166c4bf54f0",
+      "export_sha256": "aedad24c10bdaf2a6c47bd8c3e56aaecdcfec5b1bd759a8590d72d3b14f8ddd7",
+      "transformation": "School-reading catalogue payload omitted from portable edition"
+    },
+    {
+      "path": "web/languages-v05/reading-unit-planner.mjs",
+      "source_sha256": "9667605ae04a87f92217cb080b64c67cae4e5ec0211f04eccd4c1798c5799f9d",
+      "export_sha256": "9667605ae04a87f92217cb080b64c67cae4e5ec0211f04eccd4c1798c5799f9d",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/reading-unit-preparation-ui.mjs",
+      "source_sha256": "45e7105354871f3b966c60531f1a24c6268f60b521691501b08926bba72901a2",
+      "export_sha256": "45e7105354871f3b966c60531f1a24c6268f60b521691501b08926bba72901a2",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/reading-unit-preparation.mjs",
+      "source_sha256": "22cd7912e6014c43e5b73739342416acd6e60295569068bb522216be974bf859",
+      "export_sha256": "22cd7912e6014c43e5b73739342416acd6e60295569068bb522216be974bf859",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/reading-unit-task-ui.mjs",
+      "source_sha256": "1e54ffd2cc9dc6172f0448c4f9dbf3da7ab5ce470372467bd853c3c8bb9f3c1b",
+      "export_sha256": "1e54ffd2cc9dc6172f0448c4f9dbf3da7ab5ce470372467bd853c3c8bb9f3c1b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/russian-meaning-audio-sources.mjs",
+      "source_sha256": "b50669b06825fc321beba385d8e0dcefb8d59e8c2cd8e829fd40471059ce2d4b",
+      "export_sha256": "b50669b06825fc321beba385d8e0dcefb8d59e8c2cd8e829fd40471059ce2d4b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/russian-meaning-choice.mjs",
+      "source_sha256": "b604dd07f59fdb118e0db63a35f5828a430040d8f5513bc082fbea915aed2479",
+      "export_sha256": "b604dd07f59fdb118e0db63a35f5828a430040d8f5513bc082fbea915aed2479",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/safa-cave-full-cards.mjs",
+      "source_sha256": "8fad45cc3ca520c3b0bc91c1b928f444c409233ae5cd4ad8149cf0c93d9d372e",
+      "export_sha256": "b9ca35a2681eb8588d50132d68b765ba4cf4619a0686a8e2708d95f1b20d044e",
+      "transformation": "School-reading catalogue payload omitted from portable edition"
+    },
+    {
+      "path": "web/languages-v05/safa-context-catalog.mjs",
+      "source_sha256": "58f5c89755d4b44274e5a1a2d3bf227c6a0ddc082d0fb41ab9d200e8081c50dc",
+      "export_sha256": "1f7884189a3e24113121461b18cd3731cc35521bb07636b77a271d95aafb6915",
+      "transformation": "School-reading catalogue payload omitted from portable edition"
+    },
+    {
+      "path": "web/languages-v05/safa-context-daily.mjs",
+      "source_sha256": "035d00571a4845d8a30e779727230c979f9470bdaec0c0d169d14230a7a6f1c9",
+      "export_sha256": "035d00571a4845d8a30e779727230c979f9470bdaec0c0d169d14230a7a6f1c9",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/safa-context-task-ui.mjs",
+      "source_sha256": "23a56822ed1c2982ce52b4ed5408fece154d564ec8b53a61063bcb4549dc2202",
+      "export_sha256": "23a56822ed1c2982ce52b4ed5408fece154d564ec8b53a61063bcb4549dc2202",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/school-written-input.mjs",
+      "source_sha256": "b0ef74cc78e6875d2a393f06fc82f7bca75e4cc82599c62c738c86346f21830a",
+      "export_sha256": "b0ef74cc78e6875d2a393f06fc82f7bca75e4cc82599c62c738c86346f21830a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/sentence-a-templates.mjs",
+      "source_sha256": "22e59424718e994eca31de92420f1ec4ccc02f2da51fb9edf8238e34842e1744",
+      "export_sha256": "22e59424718e994eca31de92420f1ec4ccc02f2da51fb9edf8238e34842e1744",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/sentence-daily-ui.mjs",
+      "source_sha256": "0f2d2c1c9ebc80c6db4a693bf5d0e2f5904055a202e7283cf740f61c26594909",
+      "export_sha256": "0f2d2c1c9ebc80c6db4a693bf5d0e2f5904055a202e7283cf740f61c26594909",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/sentence-daily.mjs",
+      "source_sha256": "c72cfc31c0bb6dece131b2816343d618660fab1b309c29f840e50c7e8c03f554",
+      "export_sha256": "c72cfc31c0bb6dece131b2816343d618660fab1b309c29f840e50c7e8c03f554",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/session-context.mjs",
+      "source_sha256": "7d47e16bcd65711c7ef00c0b7256ec76e7119cd4e001bb5af1ddfc7115146217",
+      "export_sha256": "7d47e16bcd65711c7ef00c0b7256ec76e7119cd4e001bb5af1ddfc7115146217",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/source37-sentence-data.mjs",
+      "source_sha256": "b6d28383832eb99c09e6b7684bb1ee92b16611c4e4645c3f446a48241da8bc17",
+      "export_sha256": "3ea453cdb0fb8ba30551404c75d05edbab6c2bc3fbd4ce67b8476ef3ae5d70da",
+      "transformation": "School-reading catalogue payload omitted from portable edition"
+    },
+    {
+      "path": "web/languages-v05/studio-model.mjs",
+      "source_sha256": "4d4c7491b813f03fccffce6c5ace42aaf981ce56efa3c85b0bd76f0cfb171cb7",
+      "export_sha256": "4d4c7491b813f03fccffce6c5ace42aaf981ce56efa3c85b0bd76f0cfb171cb7",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/transparent-illustration-map.mjs",
+      "source_sha256": "ffafbbbe89f9b28845e7b45468667e25ff5946d80b80c9dd937ad31c8cfd4a7c",
+      "export_sha256": "ffafbbbe89f9b28845e7b45468667e25ff5946d80b80c9dd937ad31c8cfd4a7c",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-introduction.mjs",
+      "source_sha256": "57671d132168179aac740109573b2f91150de3b2d9e69b765d5197bceefc5860",
+      "export_sha256": "57671d132168179aac740109573b2f91150de3b2d9e69b765d5197bceefc5860",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-learning-events.mjs",
+      "source_sha256": "cc563cdf84993c41b6641a403e2f4e925fd1f1748fae9e6040593900a2dbdb91",
+      "export_sha256": "cc563cdf84993c41b6641a403e2f4e925fd1f1748fae9e6040593900a2dbdb91",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-learning-loop.mjs",
+      "source_sha256": "8f054e1e6815d1584aa24a6207a361788ebf15bf1ddfd0aa8ea479622c15ffe3",
+      "export_sha256": "8f054e1e6815d1584aa24a6207a361788ebf15bf1ddfd0aa8ea479622c15ffe3",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-loop-assets.mjs",
+      "source_sha256": "e603737e9688f5e540dfe1b4e895f144a84f9865b446414da720a54d3e288a74",
+      "export_sha256": "e603737e9688f5e540dfe1b4e895f144a84f9865b446414da720a54d3e288a74",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-loop-renderers.mjs",
+      "source_sha256": "eb4a0353271f97af49b34df6cb67da6e0c03dd4680ac0bd24697f39d7aec85ac",
+      "export_sha256": "eb4a0353271f97af49b34df6cb67da6e0c03dd4680ac0bd24697f39d7aec85ac",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-loop-semantics.mjs",
+      "source_sha256": "4122008aa4bdb4fab635ed45e31ccac4b345e2299723234b9de22e64730a591e",
+      "export_sha256": "4122008aa4bdb4fab635ed45e31ccac4b345e2299723234b9de22e64730a591e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "web/languages-v05/word-loop-store.mjs",
+      "source_sha256": "3f1218f3d045ed0d7e60f21676a0a4a219513cc143299983f1208c04d2ebff8a",
+      "export_sha256": "3f1218f3d045ed0d7e60f21676a0a4a219513cc143299983f1208c04d2ebff8a",
+      "transformation": "unchanged"
+    }
+  ]
+}

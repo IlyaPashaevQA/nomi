@@ -1,0 +1,32 @@
+{
+  "verified_at_utc": "2026-11-03T09:58:08.816984+00:00",
+  "browser": {
+    "passed": 14,
+    "projects": [
+      "desktop Chromium",
+      "phone-sized Chromium"
+    ],
+    "physical_device": false,
+    "sandbox_enabled": true,
+    "evidence": "reports/e2e-run-2.log"
+  },
+  "python": {
+    "passed": 12,
+    "evidence": "reports/api-final.log"
+  },
+  "javascript": {
+    "passed": 3,
+    "evidence": "reports/unit.log"
+  },
+  "typescript": "typecheck passed",
+  "visual": "390x844 home, vocabulary and active lesson inspected",
+  "source_manifest_mismatches": [],
+  "github_actions": "configured, not run",
+  "publication": "not uploaded; browser sign-in required",
+  "boundaries": [
+    "synthetic profiles only",
+    "eight pronunciation clips require redistribution review before public release",
+    "no open-source license selected",
+    "no production service changes"
+  ]
+}
