@@ -26,3 +26,7 @@
 - Changed IlyaPashaevQA/nomi visibility to public through GitHub settings under the owner's explicit instruction. Anonymous repository API/spec/Page Object reads returned HTTP200.
 - Preserved the original local Git lineage on archive/local-before-public-history-20261103 and aligned main with the identical published Git tree. No source app, family data or production service changed.
 - This follow-up changes verification documentation only; runtime and CI configuration match the successful hosted run.
+
+- Reviewer audit: fetched public README, TypeScript spec, two Page Objects and fixture; confirmed hosted CI success and the live Canopy5285235008 posting.
+- Anonymous public clone plus npm ci: actual demo start, audio gating, reload continuation and profile isolation passed; no page-level JavaScript errors.
+- Added two real synthetic-profile screenshots and a QA walkthrough. Clarified 7 scenarios / 14 viewport executions, persistence coverage and current limits. Runtime and assertions unchanged.

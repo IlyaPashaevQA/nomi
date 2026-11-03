@@ -8,6 +8,8 @@ The application introduces vocabulary before practice, saves lesson checkpoints 
 
 ## Start here
 
+For a quick QA review, see the [coverage and reviewer walkthrough](docs/QA_WALKTHROUGH.md).
+
 - [Playwright tests in TypeScript](tests/e2e/lesson.spec.ts)
 - [Home page object](tests/e2e/pages/NomiHomePage.ts)
 - [Lesson page object](tests/e2e/pages/LessonPage.ts)
@@ -17,11 +19,23 @@ The application introduces vocabulary before practice, saves lesson checkpoints 
 - [Synchronization case study](docs/synchronization-case-study.md)
 - [Architecture and scope](docs/architecture.md)
 
+## Product preview
+
+Actual screenshots from a fresh public clone, using synthetic Demo Learner A:
+
+| Vocabulary and saved progress | An active Hebrew lesson |
+| --- | --- |
+| ![Nomi vocabulary cards and progress](docs/images/vocabulary.jpg) | ![Nomi lesson introducing the Hebrew word for house](docs/images/lesson.jpg) |
+
+The repository contains a runnable product demo. GitHub displays its source and screenshots; the interactive app runs locally using the command below.
+
 ## Run locally
 
 Requirements: Python 3.11+ and Node.js 22+. The application server uses only Python's standard library. No API keys, cloud services or production data are needed.
 
 ```bash
+git clone https://github.com/IlyaPashaevQA/nomi.git
+cd nomi
 python3 demo_server.py
 ```
 
@@ -52,6 +66,8 @@ On Windows, `py demo_server.py` can replace `python3 demo_server.py`. For browse
 The TypeScript suite uses Page Objects to centralize UI operations. Every test starts a real local HTTP server on an automatically assigned port with its own temporary SQLite database. Browser contexts are isolated by Playwright. The suite covers desktop and phone-sized Chromium locally and the installed Google Chrome on GitHub Actions (Ubuntu 24.04). The browser sandbox stays enabled. A phone viewport is not a physical iPhone or Safari test.
 
 ## What is tested
+
+The browser suite has **7 distinct scenarios**, each run at desktop and phone-sized viewports (**14 executions**). The [coverage walkthrough](docs/QA_WALKTHROUGH.md) explains requirements, expected behavior and current limits.
 
 | Layer | Behaviors |
 | --- | --- |
