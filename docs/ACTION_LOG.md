@@ -21,3 +21,8 @@
 - Reproduced hosted CI failure from run41616764391: all 14 browser checks failed at launch, before application pages; 3 planner, 12 Python and TypeScript checks had passed. GitHub ubuntu-latest resolved to Ubuntu26.04 with AppArmor user-namespace restrictions.
 - Select the runner's installed Google Chrome in CI and pin Ubuntu24.04. Keep chromiumSandbox:true, all checks and assertions. Do not alter host security policy. Local Chromium remains default.
 - Checked crapper, dryer and mutator independently: unavailable; their steps skipped, nothing installed. Configuration change uses the actual failed CI run as the red check; no implementation-mirroring test added.
+
+- Hosted CI run41619278698 on commit044967ed completed successfully: 14 browser checks, 12 Python checks, 3 planner checks and TypeScript validation. Browser sandbox remained enabled; no assertions were removed.
+- Changed IlyaPashaevQA/nomi visibility to public through GitHub settings under the owner's explicit instruction. Anonymous repository API/spec/Page Object reads returned HTTP200.
+- Preserved the original local Git lineage on archive/local-before-public-history-20261103 and aligned main with the identical published Git tree. No source app, family data or production service changed.
+- This follow-up changes verification documentation only; runtime and CI configuration match the successful hosted run.

@@ -21,12 +21,24 @@
   "typescript": "typecheck passed",
   "visual": "390x844 home, vocabulary and active lesson inspected",
   "source_manifest_mismatches": [],
-  "github_actions": "Original runs failed before opening any page: Chromium sandbox unavailable on Ubuntu 26.04. Fix selects installed Google Chrome with sandbox enabled on pinned Ubuntu 24.04; hosted rerun pending.",
-  "publication": "Owner authorized public release with the eight existing MP3 files; visibility change pending CI verification",
+  "github_actions": {
+    "status": "success",
+    "run_id": 41619278698,
+    "url": "https://github.com/IlyaPashaevQA/nomi/actions/runs/41619278698",
+    "tested_commit": "044967ed16407e4d6fcaf61d84db6efcc1d3791e",
+    "runner": "ubuntu-24.04",
+    "browser": "installed Google Chrome; chromiumSandbox:true",
+    "browser_passed": 14,
+    "python_passed": 12,
+    "planner_passed": 3,
+    "typescript": "passed"
+  },
+  "publication": "Public on GitHub; anonymous repository, TypeScript spec and LessonPage reads HTTP200",
   "boundaries": [
     "synthetic profiles only",
     "owner approved retaining eight MP3 clips with unresolved distribution terms; audio excluded from MIT",
     "MIT approved for source code, tests and documentation; retained MP3 files excluded",
     "no production service changes"
-  ]
+  ],
+  "public_verified_at_utc": "2026-11-03T10:30:06.778195+00:00"
 }
