@@ -74,6 +74,10 @@ I define the learning requirements and expected behavior, exercise the product, 
 - The eight-word sample demonstrates the learning core, not the full private curriculum.
 - Automated browser checks do not prove teaching effectiveness, human pronunciation quality or physical-device compatibility.
 - The local SQLite adapter deliberately has a smaller scope than the deployed backend.
-- Source publication and the distribution terms of retained pronunciation clips require owner review. No open-source license has been selected for this export.
+- The distribution terms of the eight retained pronunciation clips require review or replacement before public release. These MP3 files are excluded from the MIT code license.
 
 See [privacy and media notes](docs/export-review.md) before changing repository visibility.
+
+## License
+
+Source code, tests and documentation are licensed under the [MIT License](LICENSE), copyright 2026 Ilia Pashaev. Audio and other media are excluded unless explicitly licensed in [ASSETS.md](ASSETS.md). Dependencies retain their respective upstream licenses.

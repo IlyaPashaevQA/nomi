@@ -16,5 +16,6 @@
     "@playwright/test": "1.63.0",
     "typescript": "5.9.3",
     "@types/node": "22.19.0"
-  }
+  },
+  "license": "MIT"
 }

@@ -17,7 +17,7 @@ The new test reports contain synthetic accounts only. `.demo-data`, dependencies
 
 The geometric SVG illustrations and neutral leaf were authored for this portable edition. No private child photograph or physical voice recording was intentionally selected. The pronunciation clips come from existing generated teaching assets, but file provenance and previous content review do not independently establish redistribution terms. Keep the repository private until the owner confirms those terms or chooses replacement recordings.
 
-No open-source license has been selected. Dependencies retain their respective upstream licenses; the repository's source license is an owner decision.
+On 3 November 2026 the owner approved the MIT License for source code, tests and documentation. See `LICENSE`. Audio and other media are excluded from that grant unless explicitly licensed in `ASSETS.md`. Dependencies retain their respective upstream licenses.
 
 ## Verification boundaries
 

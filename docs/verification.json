@@ -26,7 +26,7 @@
   "boundaries": [
     "synthetic profiles only",
     "eight pronunciation clips require redistribution review before public release",
-    "no open-source license selected",
+    "MIT approved for source code, tests and documentation; retained MP3 files excluded",
     "no production service changes"
   ]
 }

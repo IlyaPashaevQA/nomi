@@ -14,3 +14,5 @@
 - GitHub browser requires owner sign-in. No repository was created or made public. GitHub Actions is configured but has not run.
 - After owner browser sign-in, created private IlyaPashaevQA/nomi. Uploaded 124 files through the GitHub connector; remote tree e1bf172235825983154c158c88e6457890893097 matched the local tested tree exactly. Retrieved the TypeScript spec and LessonPage from main. No public access was enabled.
 - Final browser refresh was blocked by an automatic-review service capacity failure; read-only connector checks confirmed the files and private visibility. No hosted CI success has been observed.
+
+- Owner approved MIT licensing on 3 November 2026. Added the standard MIT license for source code, tests and documentation, with media scope documented separately. Seven existing clips trace to edge-tts / he-IL-HilaNeural; the flower clip traces to gTTS / Hebrew iw. Their redistribution terms remain unconfirmed; no MIT rights are granted for these MP3 files. Repository visibility remains private.
